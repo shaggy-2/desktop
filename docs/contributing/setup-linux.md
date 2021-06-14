@@ -1,4 +1,6 @@
 # Setting Up Development Dependencies on Linux
+ssh'
+sodo/ssh/linux/ubunto-windowsdwn
 
 You will need to install these tools on your machine:
 
